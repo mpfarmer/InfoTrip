@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InfoTripervice</string>
+    <string name="infotrip_intentservice">InfoTripIntentService</string>
+</resources>

@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "350443621047",
+    "project_id": "infotrip-1322"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350443621047:android:400d0c745a1758f3",
+        "android_client_info": {
+          "package_name": "com.InfoTrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM36RJ1rav_KKI4DWjGisutPEASjox760"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Video -->
+    <string name="tv_vid_progress_title">"This Video"</string>
+    <string name="vid_progress_loading">Loading...</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <!-- your theme inherits from the material theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+    <!-- theme customizations -->
+    </style>
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InfoTrip</string>
+
+    <!--Map-->
+    <string name="map_button">Map</string>
+    <string name="android_maps_v2_api_key">AIzaSyAIlBujiZcesSQc6pm7RzIAPO-0FqnaeYU</string>
+
+    <!--Video-->
+    <string name="vid_button">Video</string>
+
+    <!--Bluetooth-->
+    <string name="blt_button">Bluetooth</string>
+
+    <!--Media-->
+    <string name="media_state_playing">“Playing”</string>
+
+</resources>
